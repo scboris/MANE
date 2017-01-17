@@ -1,5 +1,5 @@
-WHAT IS 610 STANDART?
-  string values changes
+--WHAT IS 610 STANDART?
+--  string values changes
 with Ada.Text_IO; use Ada.Text_IO;
     procedure Hello is
     begin
